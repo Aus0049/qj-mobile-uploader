@@ -137,7 +137,7 @@ Figure.propTypes = {
 };
 
 Figure.defaultProps = {
-    prefixCls: 'zby-figure',
+    prefixCls: 'qj-figure',
     canPreview: true,
     canDelete: true,
     dataUrl: '',
